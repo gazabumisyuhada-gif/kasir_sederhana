@@ -20,7 +20,6 @@ Untuk keperluan pengujian dan penilaian sistem, silakan gunakan akun pendaftaran
 - **Backend:** PHP (Object-Oriented Programming / OOP & Session Management)
 - **Frontend:** HTML5, CSS3 (Modern Dashboard Responsive Grid Layout), JavaScript (Vanilla JS)
 - **Database:** MySQL / MariaDB
-- **Library Eksternal:** JsBarcode via CDN
 
 ## 🚀 Panduan Instalasi di Lokal (XAMPP)
 
